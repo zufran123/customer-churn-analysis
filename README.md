@@ -135,8 +135,7 @@ customer-churn-analysis/
 ## 👨‍💻 Author
 
 **Mohd Zufran**\
-🔗[GitHub]
-(https://github.com/zufran123)\
+🔗[Github](https://github.com/zufran123)\
 🔗[LinkedIn](https://linkedin.com/in/mohdzufran)
 
 ---
