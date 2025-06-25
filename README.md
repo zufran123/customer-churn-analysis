@@ -1,10 +1,26 @@
 # 🔁 Customer Churn Analysis Project
 
-This Customer Churn Analysis project is a comprehensive, data-driven solution aimed at understanding and predicting customer attrition within the telecom industry. Using Python and popular machine learning libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib/Seaborn, the project involves thorough data cleaning, exploratory data analysis (EDA), feature engineering, and the application of multiple classification algorithms (e.g., Logistic Regression, Decision Trees, Random Forest, XGBoost) to build robust churn prediction models. It identifies the most significant factors contributing to customer churn—such as contract type, service usage, tenure, and billing patterns—and translates these findings into actionable business insights. Through model evaluation techniques like confusion matrix, ROC-AUC, precision, and recall, the project ensures high-performance prediction results. Additionally, the insights derived from this analysis enable telecom companies to design proactive retention strategies, personalize customer outreach, and optimize service offerings. This project not only showcases the practical application of machine learning in solving real-world business problems but also highlights the value of data science in enhancing customer lifetime value and reducing revenue loss.
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/zufran123/customer-churn-analysis.svg?style=social)](https://github.com/zufran123/customer-churn-analysis/stargazers)
+[![Forks](https://img.shields.io/github/forks/zufran123/customer-churn-analysis.svg?style=social)](https://github.com/zufran123/customer-churn-analysis/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/zufran123/customer-churn-analysis.svg)](https://github.com/zufran123/customer-churn-analysis/commits/main)
 
-## Project Management :
+---
 
-To streamline the development process, this project was organized using GitHub Projects. A dedicated project board was created to plan and track progress efficiently. All key tasks were managed through clearly defined issues, allowing for systematic tracking of milestones such as data exploration, modeling, evaluation, and documentation. This structured approach ensured both productivity and maintainability throughout the project lifecycle
+This Customer Churn Analysis project is a comprehensive, data-driven solution aimed at understanding and predicting customer attrition within the telecom industry.
+
+Using Python and popular machine learning libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib/Seaborn, the project involves thorough data cleaning, exploratory data analysis (EDA), feature engineering, and the application of multiple classification algorithms (e.g., Logistic Regression, Decision Trees, Random Forest, XGBoost) to build robust churn prediction models.
+
+It identifies the most significant factors contributing to customer churn—such as contract type, service usage, tenure, and billing patterns—and translates these findings into actionable business insights. Through model evaluation techniques like confusion matrix, ROC-AUC, precision, and recall, the project ensures high-performance prediction results.
+
+Additionally, the insights derived from this analysis enable telecom companies to design proactive retention strategies, personalize customer outreach, and optimize service offerings. This project not only showcases the practical application of machine learning in solving real-world business problems but also highlights the value of data science in enhancing customer lifetime value and reducing revenue loss.
+
+---
+
+## 📋 Project Management
+
+To streamline the development process, this project was organized using **GitHub Projects**. A dedicated project board was created to plan and track progress efficiently. All key tasks were managed through clearly defined issues, allowing for systematic tracking of milestones such as data exploration, modeling, evaluation, and documentation. This structured approach ensured both productivity and maintainability throughout the project lifecycle.
 
 ---
 
@@ -76,7 +92,7 @@ customer-churn-analysis/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/customer-churn-analysis.git
+   git clone https://github.com/zufran123/customer-churn-analysis.git
    cd customer-churn-analysis
    ```
 
@@ -86,7 +102,7 @@ customer-churn-analysis/
    pip install -r requirements.txt
    ```
 
-3. **Prepare Data:**
+3. **Prepare the Data:**
 
    - Ensure `churn_data.csv` is placed inside the `data/` directory.
 
@@ -96,7 +112,7 @@ customer-churn-analysis/
    python src/churn_analysis.py
    ```
 
-5. **Check **``** Directory:**
+5. **Check the `models/` Directory:**
 
    - Trained model files (`.pkl`) will be saved here.
 
@@ -106,14 +122,9 @@ customer-churn-analysis/
 
 - **Source:** [Kaggle or internal dataset — update if applicable]
 - **Features:**
-  - `customerID`
-  - `gender`
-  - `SeniorCitizen`
-  - `Partner`
-  - `Dependents`
-  - `tenure`
-  - `PhoneService`, `MultipleLines`
-  - `InternetService`, `OnlineSecurity`, etc.
+  - `customerID`, `gender`, `SeniorCitizen`, `Partner`, `Dependents`
+  - `tenure`, `PhoneService`, `MultipleLines`
+  - `InternetService`, `OnlineSecurity`, `OnlineBackup`, `DeviceProtection`, etc.
   - `Contract`, `PaperlessBilling`, `PaymentMethod`
   - `MonthlyCharges`, `TotalCharges`
   - `Churn` (Target)
@@ -122,10 +133,10 @@ customer-churn-analysis/
 
 ## 📈 Future Improvements
 
-- Add hyperparameter tuning using GridSearchCV.
-- Improve data cleaning pipeline and handle class imbalance.
-- Deploy models via a Flask or Streamlit app.
-- Integrate interactive dashboards for business stakeholders.
+- Add hyperparameter tuning using GridSearchCV
+- Improve data cleaning pipeline and handle class imbalance
+- Deploy models via a Flask or Streamlit app
+- Integrate interactive dashboards for business stakeholders
 
 ---
 
@@ -138,16 +149,16 @@ customer-churn-analysis/
 
 ## 👨‍💻 Author
 
-**Mohd Zufran**\
-🔗[LinkedIn](https://linkedin.com/in/mohdzufran)
+**Mohd Zufran**  
+🔗 [LinkedIn](https://linkedin.com/in/mohdzufran)
 
 ---
 
 ## 📄 License
-This Open Source Software is under the MIT License. Please give proper credit by including the license and attributing the original author.
+
+This Open Source Software is licensed under the **MIT License**.  
+Please give proper credit by including the license and attributing the original author.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-
 This project is licensed under the [MIT License](LICENSE).
-
