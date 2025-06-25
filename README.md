@@ -145,7 +145,8 @@ customer-churn-analysis/
 
 ## 📄 License
 This Open Source Software is under the MIT License. Please give proper credit by including the license and attributing the original author.
-(https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 This project is licensed under the [MIT License](LICENSE).
