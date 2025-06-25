@@ -1,7 +1,6 @@
 # 🔁 Customer Churn Analysis Project
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/zufran123/customer-churn-analysis.svg?style=social)](https://github.com/zufran123/customer-churn-analysis/stargazers)
 [![Forks](https://img.shields.io/github/forks/zufran123/customer-churn-analysis.svg?style=social)](https://github.com/zufran123/customer-churn-analysis/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/zufran123/customer-churn-analysis.svg)](https://github.com/zufran123/customer-churn-analysis/commits/main)
