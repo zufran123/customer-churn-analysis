@@ -149,7 +149,7 @@ customer-churn-analysis/
 ## 👨‍💻 Author
 
 **Mohd Zufran**  
-[![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
+👉 [![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
 ---
 
@@ -158,4 +158,4 @@ customer-churn-analysis/
 This Open Source Software is licensed under the **MIT License**.  
 Please give proper credit by including the license and attributing the original author.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+👉 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
